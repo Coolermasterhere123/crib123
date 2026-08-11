@@ -1,0 +1,9 @@
+Building crib123 app structure...
+Installing dependencies...
+
+added 25 packages, and audited 26 packages in 14s
+
+5 packages are looking for funding
+  run `npm fund` for details
+
+found 0 vulnerabilities
